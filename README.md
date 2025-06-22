@@ -128,7 +128,10 @@ A high score means the word is **frequent in this document**, but **rare overall
 ### 9. 📈 Model Evaluation
 
 * Calculates **accuracy** on the test set using `accuracy_score`.
+* Achieved an accuracy of : 98%
 * Builds a **confusion matrix** to evaluate per-class performance.
+  ![image](https://github.com/user-attachments/assets/a86c4824-06b2-4e7f-9779-d9cc79ffc3f3)
+
 * Uses **seaborn heatmap** for visual display of classification results.
 
 ---
